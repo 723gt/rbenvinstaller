@@ -1,6 +1,5 @@
 # rbenvinstaller  
   
----  
 rbenvをインストールするためだけのスクリプト。  
   
 # install  
@@ -10,5 +9,4 @@ chmod +x rbenvinstaller.sh
 ./rbenvinstaller.sh  
   
 ```  
----  
   
