@@ -1,6 +1,7 @@
 # rbenvinstaller  
   
 rbenvをインストールするためだけのスクリプト。  
+sorry bash only  
   
 # install  
 ```  
