@@ -6,4 +6,4 @@ git clone https://github.com/sstephenson/ruby-build.git ~/.rbenv/plugins/ruby-bu
 #bash only
 echo 'export PATH="$HOME/.rbenv/bin:$PATH"' >> ~/.bash_profile
 echo 'eval "$(rbenv init -)"' >> ~/.bash_profile
-source ~/.bash_profile
+
